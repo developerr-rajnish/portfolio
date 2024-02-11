@@ -442,6 +442,7 @@ h1, h2, h3, h4, h5, h6, li, a, p {
 }
 #works .worksSection .workscontainer .workbox .box .box_area .text {
   margin: 5px 0px;
+  font-size: 28px;
 }
 #works .worksSection .workscontainer .workbox .box .box_area .skills-used li {
   font-size: 1.1rem;
